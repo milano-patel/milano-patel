@@ -1,6 +1,4 @@
-### Hi there, this is Milan 👋
-
-# 💫 About Me:
+# 💫 Hi there, this is Milan 👋:
 🔭 My name is Milan, I'm a UX Designer with a background in Computer Engineering. And I'm currently honing my Front-End Development  skills.<br>🌱 I love solving problems with the user-centric design approach.​ Having the deeper understanding of both the user and engineering sides helps me find innovative and strategic solutions for complex problems.<br>💬 If I have to describe myself in 3 words, then it would be: Creative, Innovative & Strategic.<br>⚡ In my free time, I like to sketch, watch documentaries, read books and I love taking photos.<br>
 
 ## 🌐 Socials:
