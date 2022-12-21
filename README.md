@@ -1,5 +1,5 @@
 # Hola 👋
-🔭 I'm a problem solver with a background in Engineering, Interactive Media and Design.<br>🌱 I'm currently honing my Front-End Development  skills.<br>👨‍🔧 I love solving problems with the user-centric design approach.<br>💬 If I have to describe myself in 3 words, then it would be: Creative, Innovative & Strategic.<br>⚡ In my free time, I like to sketch, watch documentaries, read books and I love taking photos.<br>
+🔭 I'm a problem solver with a background in Engineering, Interactive Media and Design.<br>🌱 I'm currently honing my Front End Web Development skills.<br>👨‍🔧 I love solving problems with the user-centric design approach.<br>💬 If I have to describe myself in 3 words, then it would be: Creative, Innovative & Strategic.<br>⚡ In my free time, I like to sketch, watch documentaries, read books and I love taking photos.<br>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://ptlmilan52.wixsite.com/milan-portfolio) 
